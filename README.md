@@ -538,6 +538,5 @@ node prod.server.js
   [2]: http://cn.vuejs.org/v2/guide/migration.html
   [3]: http://cli.im/
 
-项目演示地址
-
-![二维码](https://qr.api.cli.im/qr?data=http%253A%252F%252Fustbhuangyi.com%252Fmusic%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=731bbcc2b490454d2cc604f98539952c)
+[项目演示地址]
+  暂无
